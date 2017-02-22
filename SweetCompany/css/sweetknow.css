@@ -1,0 +1,162 @@
+#fazhan {
+	border-color: ghostwhite;
+	width: 960px;
+	height: 100px;
+	margin: 0 auto;
+	background: url(../img/images/display.jpg) no-repeat;
+	display: inline-block;
+	background-position: 0px -45px;
+}
+
+#fazhan h2 {
+	color: red;
+	float: left;
+	line-height: 60px;
+}
+
+#fazhan li {
+	float: right;
+	height: 100px;
+	width: 100px;
+	margin-top: -16px;
+	margin-right: 0px;
+	background-color: white;
+	list-style: none;
+}
+
+#fazhan a {
+	padding-left: 5px;
+	color: #5F9EA0;
+	line-height: 95px;
+}
+
+#choose {
+	width: 220px;
+	height: 195px;
+	text-align: center;
+	float: left;
+	line-height: 35px;
+	margin-left: -40px;
+	margin-top: -50px;
+	margin-bottom: 30px;
+}
+
+#choose ul li {
+	list-style: none;
+	border: 1px white solid;
+	background-color: lightgrey;
+	border: 1px solid #D5DAE0;
+	width: 220px;
+	height: 48px;
+}
+
+#choose a {
+	text-decoration: none;
+	
+	color: #551A8B;
+}
+
+#choose a:hover {
+	color: red;
+}
+
+#linian {
+	float: left;
+	width: 700px;
+	height: 694px;
+	margin-top: -70px;
+	margin-left: 80px;
+}
+
+#c1 {
+	font-family: "黑体";
+}
+
+#c3 {
+	margin-top: 30px;
+	font-size: 22px;
+}
+
+#c4 {
+	margin-top: -15px;
+}
+
+.pp {
+	float: right;
+	margin-top: -50px;
+	width: 220px;
+	height: 170px;
+}
+
+#c5 {
+	margin-top: 80px;
+	font-size: 22px;
+}
+
+#c6 {
+	float: left;
+	margin-top: -15px;
+}
+
+#mo h4 {
+	margin-left: 40px;
+}
+
+#mo p {
+	font-size: 14px;
+	background: url(../img/images/arrow_blue.png) 10px 0 no-repeat;
+	padding-left: 30px;
+}
+
+.det1 {
+	margin-left: -10px;
+	width: 236px;
+	height: 245px;
+	float: left;
+	background: url(../img/images/kuang.png) ;
+}
+
+
+.det2 {
+	margin-right: 2px;
+	width: 236px;
+	height: 245px;
+	float: left;
+	background: url(../img/images/kuang.png) ;
+}
+
+.det3 {
+	width: 236px;
+	height: 245px;
+	float: right;
+	padding-right: -20px;
+	background: url(../img/images/kuang3.png) no-repeat ;
+}
+
+.d1 {
+	height: 30px;
+	background: url(../img/images/dh24.gif) 10px 0 no-repeat;
+}
+
+.d2 {
+	height: 30px;
+	background: url(../img/images/mh24.gif)10px 0  no-repeat;
+}
+
+.d3 {
+	height: 30px;
+	background: url(../img/images/oh24.gif) 10px 0 no-repeat;
+}
+
+#ph1{
+	width: 240px;
+	height: 300px;
+	background: url(../img/images/network.jpg) no-repeat;
+	margin-top: 150px;
+}
+#ph2{
+	width: 240px;
+	height: 180px;
+	background: url(../img/images/rewards.jpg) no-repeat;
+	margin-top: 20px;
+}
